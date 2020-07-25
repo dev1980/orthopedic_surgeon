@@ -19,13 +19,13 @@ const About = () => {
                 <div className="my-3">
                 <div className="row">
                 <div className="col-md-4">
-                <iframe width="200" height="150" src="https://www.youtube.com/embed/Ynwab9YpDCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe title="neck pain causes" width="200" height="150" src="https://www.youtube.com/embed/Ynwab9YpDCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                <div className="col-md-1">
-                 
+
                </div>
                 <div className="col-md-4">
-                <iframe width="200" height="150" src="https://www.youtube.com/embed/mLEVkOZPmcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe title="endoscopic spine surgery" width="200" height="150" src="https://www.youtube.com/embed/mLEVkOZPmcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 </div>
                 </div>
